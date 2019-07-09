@@ -1,0 +1,28 @@
+I've researched our task carefully and i recongized that there are to many things to do it.
+And i decided how to do it.
+
+so i divided our task like this.
+
+1 - 100usd : Documentation for complete scope of work(This is impportant part before we start our project) - 2days 
+
+2 - 100usd : Wire-frame design - 2days
+
+3 - 300usd : Live design - 5days
+
+4 - 500usd : Backend development(We need to make apis) : 7days
+
+5 - 500usd : Vendor backend development : 5days
+
+6 - 350usd : User dashboard development : 5days
+
+7 - 350usd : Front end development : 7days
+
+8 - 1000usd : android app : 7days
+
+9 - 1000usd : ios app : 7days
+
+8 - 300usd  : Testing and bug fixing and after complete: 2days
+
+And upfront 300usd.
+
+So 4500usd in 7weeks total.
